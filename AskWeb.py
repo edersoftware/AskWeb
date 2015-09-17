@@ -90,7 +90,7 @@ def closed_question_service():
             pass
         # TODO Implement delete function
 
-
+# Eine kleine Anpassung
 
 
 
